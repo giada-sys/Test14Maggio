@@ -1,0 +1,16 @@
+C:\Users\giada.lomasti\source\repos\ACCADEMY\SecondaSettimana\Verfica8_Giada\Verfica8_Giada\obj\Debug\net5.0\Verfica8_Giada.csprojAssemblyReference.cache
+C:\Users\giada.lomasti\source\repos\ACCADEMY\SecondaSettimana\Verfica8_Giada\Verfica8_Giada\obj\Debug\net5.0\Verfica8_Giada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giada.lomasti\source\repos\ACCADEMY\SecondaSettimana\Verfica8_Giada\Verfica8_Giada\obj\Debug\net5.0\Verfica8_Giada.AssemblyInfoInputs.cache
+C:\Users\giada.lomasti\source\repos\ACCADEMY\SecondaSettimana\Verfica8_Giada\Verfica8_Giada\obj\Debug\net5.0\Verfica8_Giada.AssemblyInfo.cs
+C:\Users\giada.lomasti\source\repos\ACCADEMY\SecondaSettimana\Verfica8_Giada\Verfica8_Giada\obj\Debug\net5.0\Verfica8_Giada.csproj.CoreCompileInputs.cache
+C:\Users\giada.lomasti\source\repos\ACCADEMY\SecondaSettimana\Verfica8_Giada\Verfica8_Giada\bin\Debug\net5.0\Verfica8_Giada.exe
+C:\Users\giada.lomasti\source\repos\ACCADEMY\SecondaSettimana\Verfica8_Giada\Verfica8_Giada\bin\Debug\net5.0\Verfica8_Giada.deps.json
+C:\Users\giada.lomasti\source\repos\ACCADEMY\SecondaSettimana\Verfica8_Giada\Verfica8_Giada\bin\Debug\net5.0\Verfica8_Giada.runtimeconfig.json
+C:\Users\giada.lomasti\source\repos\ACCADEMY\SecondaSettimana\Verfica8_Giada\Verfica8_Giada\bin\Debug\net5.0\Verfica8_Giada.runtimeconfig.dev.json
+C:\Users\giada.lomasti\source\repos\ACCADEMY\SecondaSettimana\Verfica8_Giada\Verfica8_Giada\bin\Debug\net5.0\Verfica8_Giada.dll
+C:\Users\giada.lomasti\source\repos\ACCADEMY\SecondaSettimana\Verfica8_Giada\Verfica8_Giada\bin\Debug\net5.0\ref\Verfica8_Giada.dll
+C:\Users\giada.lomasti\source\repos\ACCADEMY\SecondaSettimana\Verfica8_Giada\Verfica8_Giada\bin\Debug\net5.0\Verfica8_Giada.pdb
+C:\Users\giada.lomasti\source\repos\ACCADEMY\SecondaSettimana\Verfica8_Giada\Verfica8_Giada\obj\Debug\net5.0\Verfica8_Giada.dll
+C:\Users\giada.lomasti\source\repos\ACCADEMY\SecondaSettimana\Verfica8_Giada\Verfica8_Giada\obj\Debug\net5.0\ref\Verfica8_Giada.dll
+C:\Users\giada.lomasti\source\repos\ACCADEMY\SecondaSettimana\Verfica8_Giada\Verfica8_Giada\obj\Debug\net5.0\Verfica8_Giada.pdb
+C:\Users\giada.lomasti\source\repos\ACCADEMY\SecondaSettimana\Verfica8_Giada\Verfica8_Giada\obj\Debug\net5.0\Verfica8_Giada.genruntimeconfig.cache

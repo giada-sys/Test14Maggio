@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Verfica8_Giada/1.0.0": {
+        "runtime": {
+          "Verfica8_Giada.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Verfica8_Giada/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
