@@ -25,7 +25,7 @@ namespace Verfica8_Giada
         public override string ToString()
         {
             return $"Data: {this.DataOperazione}\n" +
-                $"{this.NomeOperazione} di {this.Importo}" +
+                $"{this.NomeOperazione} di {this.Importo}\n" +
                 $"Numero carta: {this.NumeroCarta}\n" +
                 $"Circuto: {TipoCircuito}";
         }
